@@ -1,13 +1,27 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.07d3183d.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.56319653.js",
+    "static/js/806.f6e78fd2.chunk.js": "/goit-react-hw-05-movies/static/js/806.f6e78fd2.chunk.js",
+    "static/js/372.ec4e4a62.chunk.js": "/goit-react-hw-05-movies/static/js/372.ec4e4a62.chunk.js",
+    "static/css/690.a0212a6a.chunk.css": "/goit-react-hw-05-movies/static/css/690.a0212a6a.chunk.css",
+    "static/js/690.1a648f39.chunk.js": "/goit-react-hw-05-movies/static/js/690.1a648f39.chunk.js",
+    "static/js/2.45f23f4b.chunk.js": "/goit-react-hw-05-movies/static/js/2.45f23f4b.chunk.js",
+    "static/js/705.fcc8b2c7.chunk.js": "/goit-react-hw-05-movies/static/js/705.fcc8b2c7.chunk.js",
+    "static/media/placeholder.png": "/goit-react-hw-05-movies/static/media/placeholder.0d1ac09c7d6569297f1e.png",
+    "static/media/mainplaceholder.png": "/goit-react-hw-05-movies/static/media/mainplaceholder.369ad8f0ea82dde5923c.png",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-05-movies/static/js/main.07d3183d.js.map"
+    "main.56319653.js.map": "/goit-react-hw-05-movies/static/js/main.56319653.js.map",
+    "806.f6e78fd2.chunk.js.map": "/goit-react-hw-05-movies/static/js/806.f6e78fd2.chunk.js.map",
+    "372.ec4e4a62.chunk.js.map": "/goit-react-hw-05-movies/static/js/372.ec4e4a62.chunk.js.map",
+    "690.a0212a6a.chunk.css.map": "/goit-react-hw-05-movies/static/css/690.a0212a6a.chunk.css.map",
+    "690.1a648f39.chunk.js.map": "/goit-react-hw-05-movies/static/js/690.1a648f39.chunk.js.map",
+    "2.45f23f4b.chunk.js.map": "/goit-react-hw-05-movies/static/js/2.45f23f4b.chunk.js.map",
+    "705.fcc8b2c7.chunk.js.map": "/goit-react-hw-05-movies/static/js/705.fcc8b2c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.56319653.js"
   ]
 }
